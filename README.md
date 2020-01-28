@@ -6,6 +6,6 @@
 
 如果想要了解更多内容，请看以下二维码：
 
-![QR](https://github.com/zhishi996/zhishi996.github.io/blob/master/wx.jpg)
+
 
 ![zhishi996](https://github.com/zhishi996/zhishi996.github.io/blob/master/wx-min.jpg)
