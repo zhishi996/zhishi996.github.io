@@ -4,7 +4,7 @@
 ![zhishi996](https://github.com/zhishi996/zhishi996.github.io/blob/master/wx-min.jpg)
 
 
-###注
+###  注：
 
  我搜集的资料，全部来源于网络。为了可持续稳定的为大家服务，因此对资料进行了技术处理（如水印）。 
 
